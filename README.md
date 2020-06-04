@@ -3,7 +3,7 @@
 Repositório contendo o desafio 03 elaborado na **Maratona Full Cycle 2.0** promovido pela **[Full Cycle](http://fullcycle.com.br)** (School of Net e Code Education). Os desafios consistiam em elaborar as aplicações, criar as imagens com o docker e publica-las  no dockerhub.
 - O desafio 3 consistia em elaborar duas rotas na API REST NestJS utilizando recursos de comunicação WebRTC com Peer.js
 
-# Desafio 3 (Eunciado)
+# Desafio 3 (Enunciado)
 
 ## Envio de mensagens usando WebRTC com Peer.js
 
